@@ -37,7 +37,21 @@ A Django web application for automated employee/student attendance using face re
    ```sh
    python manage.py runserver
    ```
-6. **Access the app**: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+##Dashboard
+<img width="1349" height="595" alt="Dashboard" src="https://github.com/user-attachments/assets/35927252-4abc-4989-a011-ab9d5e45c7f3" />
+
+##Attandance record
+<img width="1362" height="597" alt="attandance record" src="https://github.com/user-attachments/assets/90155955-c96d-4b0e-897c-5a93be40a3f5" />
+
+##Camera configuration
+<img width="1365" height="596" alt="camera config" src="https://github.com/user-attachments/assets/4ad91e1f-e414-4c8b-bac1-aed94c48aa94" />
+
+##Employee Lists
+<img width="1350" height="601" alt="employee list" src="https://github.com/user-attachments/assets/f0ebbd1d-3b6e-40d4-9f97-e9c54917db22" />
+
+
+
 
 ## Camera Configuration
 - Go to Camera Config in the dashboard
@@ -56,12 +70,6 @@ A Django web application for automated employee/student attendance using face re
 - View attendance logs
 - Download attendance reports
 - Manage camera configurations
-
-## Environment Variables
-See `.env.example` for configuration options (production, database, security).
-
-## Docker Support
-A `Dockerfile` is provided for containerized deployment. Edit as needed for your environment.
 
 ## License
 MIT
